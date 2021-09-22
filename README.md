@@ -5,4 +5,4 @@ If, Eif, Else, Statements
 For loops 
 While loops 
 
-While learning hoe version controll works in Gitkraken 
+While learning how version controll works in Gitkraken 
