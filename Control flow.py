@@ -1,7 +1,6 @@
 # Proggramer: Ryan Gale
 # Date: 10-11-21
 # program: ATM Bank Transaction
-
 """
 This program simulates an ATM utilizing If, Elif, and Else statements.
 Nesting If statements and refresh our Comparison & Logical Operators.
@@ -21,4 +20,16 @@ pin = input ("Please Choose a Four Digit Personal Identification Number: ")
 print ("\n Thank You",first_name + ", we see that you set your PIN to",pin)
 
 
-print("\nWould you like to make a transaction through our Automated Teller Machine") 
+print("\nWould you like to make a transaction through our Automated Teller Machine")
+
+ATM = input("Yes or No: ").lower()
+
+if ATM == "yes":
+    print("\n*******************************************\n")
+
+
+
+
+else:
+    print("\nHave a Great Day!",first_name, Last_Name,", please visit again soon ;)")
+    
