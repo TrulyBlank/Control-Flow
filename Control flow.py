@@ -31,5 +31,4 @@ if ATM == "yes":
 
 
 else:
-    print("\nHave a Great Day!",first_name, Last_Name,", please visit again soon ;)")
-    
+    print("\nHave a Great Day!",first_name, Last_Name + ", please visit again soon ;)")
